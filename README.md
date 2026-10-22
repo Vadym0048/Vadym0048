@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | Stable layout, intentionally using explicit HTML headings -->
 
 <p align="center">
-  <img src="./banner.svg" alt="Vadym Naumenko — Cybersecurity, Networking &amp; Python" width="100%" />
+  <img src="./banner-v2.png" alt="Vadym Naumenko — Cybersecurity, Networking &amp; Python" width="100%" />
 </p>
 
 <p align="center">
