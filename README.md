@@ -1,5 +1,7 @@
+<!-- GitHub Profile README | Stable layout, intentionally using explicit HTML headings -->
+
 <p align="center">
-  <img src="banner.svg" alt="Vadym Naumenko — Cybersecurity, Networking and Python | Learning by Building" width="100%" />
+  <img src="./banner.svg" alt="Vadym Naumenko — Cybersecurity, Networking &amp; Python" width="100%" />
 </p>
 
 <p align="center">
@@ -8,66 +10,75 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vadym0048/PythonNetworkFilter"><img src="https://img.shields.io/badge/FEATURED-PythonNetworkFilter-147D86?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: PythonNetworkFilter" /></a>
-  <a href="https://github.com/Vadym0048?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-263A52?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/Vadym0048?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-5B97A2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories" />
+  </a>
 </p>
 
-## 👋 About me
+<hr />
 
-I'm Vadym, developing practical skills in **cybersecurity, computer networking, and Python automation**. I use GitHub as a personal technical lab: a place to share working exercises, document what I learn, and improve projects over time.
+<h2>About me</h2>
 
-**My approach:** `LEARN` → `BUILD` → `TEST` → `DOCUMENT` → `IMPROVE`
-
-## 🧰 Skills & lab toolkit
-
-**Programming & developer tools**
-
-![Python](https://img.shields.io/badge/Python-244A65?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-244A65?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-244A65?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-244A65?style=for-the-badge&logo=pycharm&logoColor=white)
-
-**Networking & security labs**
-
-![Cisco](https://img.shields.io/badge/Cisco_Networking-126B78?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-126B78?style=for-the-badge&logo=linux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-126B78?style=for-the-badge&logo=windows&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-126B78?style=for-the-badge&logo=wireshark&logoColor=white)
-
-*These are technologies I work with or explore in learning environments — not a claim of expert-level proficiency.*
-
-## 🛡️ Featured project
-
-### [PythonNetworkFilter](https://github.com/Vadym0048/PythonNetworkFilter)
-
-A small educational Python toolkit for understanding network activity and basic security-related log analysis.
-
-| Lab | What it demonstrates |
-| :-- | :-- |
-| **01 · Connection analysis** | Counts `CONNECT` events by IP address |
-| **02 · Device configuration** | Reads device settings and performs a basic subnet-prefix check |
-| **03 · Firewall analysis** | Summarizes `ALLOW` / `DENY` events and flags repeated denials |
-
-**Built with:** Python standard library · sample log files · text reports
-
-[**Explore source code and documentation →**](https://github.com/Vadym0048/PythonNetworkFilter)
-
-## 🧭 What I'm learning
-
-| Focus | Hands-on direction |
-| :-- | :-- |
-| **Network engineering** | TCP/IP, subnetting, routing, switching, Cisco labs |
-| **Security monitoring** | Network events, firewall logs, alert logic |
-| **Python automation** | File processing, reusable scripts, reports |
-| **Systems & infrastructure** | Linux, Windows Server, virtualized lab environments |
-
-## 📓 Lab notes
-
-I keep projects intentionally practical. Each repository aims to explain **what it does, how to run it, what I learned, and what could improve next**. Educational demonstrations are labeled as such rather than presented as production security tools.
-
----
-
-<p align="center">
-  <strong>Learning by Building.</strong><br />
-  <sub>Build · Test · Document · Improve</sub>
+<p>
+  I'm Vadym, developing practical skills in <strong>cybersecurity</strong>,
+  <strong>computer networking</strong>, and <strong>Python automation</strong>.
+  I use GitHub as a personal technical lab: a place to share working exercises,
+  document what I learn, and improve projects over time.
 </p>
+
+<p>
+  <strong>My approach:</strong>
+  <code>LEARN</code> → <code>BUILD</code> → <code>TEST</code> → <code>DOCUMENT</code> → <code>IMPROVE</code>
+</p>
+
+<hr />
+
+<h2>Skills &amp; lab toolkit</h2>
+
+<h3>Programming &amp; developer tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-244A65?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-244A65?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-244A65?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PyCharm-244A65?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Wireshark-244A65?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Android-244A65?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-244A65?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-244A65?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VMware-244A65?style=for-the-badge&amp;logo=vmware&amp;logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Oracle-244A65?style=for-the-badge&amp;logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjEwIiByeD0iNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzLjEiIGZpbGw9Im5vbmUiLz48L3N2Zz4%3D" alt="Oracle" />
+</p>
+
+<h3>Networking &amp; security labs</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Networking-5B97A2?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Networking" />
+  <img src="https://img.shields.io/badge/Windows%20Server-5B97A2?style=for-the-badge&amp;logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDRoOXY4SDJ6bTExIDBoOXY4aC05ek0yIDE0aDl2OEgyem0xMSAwaDl2OGgtOXoiLz48L3N2Zz4%3D" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-5B97A2?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
+</p>
+
+<p><em>These technologies represent tools I work with or explore in learning environments — not a claim of expert-level proficiency.</em></p>
+
+<hr />
+
+<h2>Current direction</h2>
+
+<ul>
+  <li>Building a stronger foundation in <strong>network security</strong></li>
+  <li>Improving <strong>Python scripting</strong> for automation and reporting</li>
+  <li>Expanding hands-on practice with <strong>monitoring</strong> and <strong>analysis tools</strong></li>
+  <li>Documenting progress through small, working technical projects</li>
+</ul>
+
+<hr />
+
+<h2>Repository goals</h2>
+
+<p>This profile and its repositories are designed to serve as:</p>
+
+<ul>
+  <li>a <strong>technical learning journal</strong></li>
+  <li>a <strong>practical cybersecurity / networking portfolio</strong></li>
+  <li>a place for <strong>clear, reproducible, hands-on work</strong></li>
+</ul>
