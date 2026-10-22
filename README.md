@@ -81,6 +81,7 @@
 
 <p>This profile and its repositories are designed to serve as:</p>
 
+
 <ul>
   <li>a <strong>technical learning journal</strong></li>
   <li>a <strong>practical cybersecurity / networking portfolio</strong></li>
